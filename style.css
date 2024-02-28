@@ -1,0 +1,82 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+.calbod{
+    height:620px;
+    width:400px;
+    background-color: rgb(65, 65, 31);
+    
+}
+.textfield{
+    height:75px;
+    width:375px;
+    background-color: rgb(48, 46, 46);
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.textfield1{
+    height:75px;
+    width:369px;
+    background-color: rgb(48, 46, 46);
+    font-size: 35px;
+    color: white;
+}
+.output{
+    height:50px;
+    width:375px;
+    background-color: rgb(98, 98, 93);
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px; 
+}
+.butfield{
+    margin: 10px;
+    height: 460px;
+    width: 370px;
+    background-color: rgb(25, 25, 23);
+    display: flex;
+    flex-wrap: wrap;
+}
+.clear{
+    height: 92px;
+    width: 92px;
+    color: aliceblue;
+    background-color: rgb(235, 153, 38);
+    border-style: solid;
+    text-align: center;
+    align-items: center;
+    justify-content: center ;
+    display: flex;
+    font-size: 35px;
+    border-width: 1px;
+}
+.buttons{
+    height: 92px;
+    width: 92px;
+    color: aliceblue;
+    background-color: rgb(15, 15, 13);
+    border-style: solid;
+    text-align: center;
+    align-items: center;
+    justify-content: center ;
+    display: flex;
+    font-size: 35px;
+    border-width: 1px;
+}
+.buttons1{
+    height: 92px;
+    width: 92px;
+    color: aliceblue;
+    background-color: rgb(205, 142, 48);
+    border-style: solid;
+    text-align: center;
+    align-items: center;
+    justify-content: center ;
+    display: flex;
+    font-size: 35px;
+    border-width: 1px;
+}
